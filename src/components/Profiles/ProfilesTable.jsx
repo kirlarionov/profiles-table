@@ -46,7 +46,7 @@ const TextRenderer = ({ value, id }) => {
       <WrapLink>
          <NavLink
             className="my-link"
-            to={`/profile-summary/${id}`}>
+            to={"/profiles-table/profile-summary/" + id}>
             <TableСell>{value}</TableСell>
          </NavLink>
       </WrapLink>

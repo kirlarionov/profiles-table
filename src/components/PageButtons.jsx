@@ -1,7 +1,7 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
-import styled from 'styled-components'
-import { t } from 'i18next'
+import React from "react"
+import { NavLink } from "react-router-dom"
+import styled from "styled-components"
+import { t } from "i18next"
 
 const Buttons = styled.div`
    display: flex;
@@ -28,14 +28,13 @@ const Line = styled.div`
 `
 
 const PageButtons = () => {
-
    return (
       <>
          <Buttons>
-            <NavLink to="/">
+            <NavLink to="/profiles-table/">
                <ProfilePageTitle>{t("Profiles")}</ProfilePageTitle>
             </NavLink>
-            <NavLink to="/profile-summary">
+            <NavLink to="/profiles-table/profile-summary">
                <ProfilePageTitle>{t("Profile summary")}</ProfilePageTitle>
             </NavLink>
          </Buttons>
