@@ -1,12 +1,13 @@
 <a id="anchor"></a>
 
 <h1 align="center">
-      Profiles table
-      <img src="./src/img/react.svg" width="100">
+      Profiles Table
+      <img src="./src/img/react.svg" width="24">
 </h1>
 
 ## About
- A simple application in which I learned about React.
+ A simple application in which I first used React.js
+ 
  Link to view this  App &#10143;  https://kirlarionov.github.io/profiles-table/
 
 ## Technology stack
