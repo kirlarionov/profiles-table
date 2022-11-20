@@ -6,7 +6,7 @@
 </h1>
 
 ## About
- A simple application in which I first used React.js
+ A simple application in which I first used React.js (November 2021)
  
  Link to view this  App &#10143;  https://kirlarionov.github.io/profiles-table/
 
